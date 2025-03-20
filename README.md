@@ -21,3 +21,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aysenuryildizdal&" alt="aysenuryildizdal" /></p>
 
+
+
+
+
+
+![snake gif](https://github.com/aysenuryildizdal/aysenuryildizdal/blob/output/github-contribution-grid-snake.gif)
