@@ -24,5 +24,4 @@
 
 
 
-
-![snake gif](https://github.com/aysenuryildizdal/aysenuryildizdal/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/aysenuryildizdal/aysenuryildizdal/blob/output/github-snake-dark.svg)
